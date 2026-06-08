@@ -1,0 +1,2013 @@
+{
+  "data": {
+    "hits": [
+      {
+        "id": "00000073-27e1-4dcd-bfdc-e458c31feec2",
+        "cases": [
+          {
+            "primary_site": "Breast",
+            "disease_type": "Ductal and Lobular Neoplasms",
+            "case_id": "f3cb557d-23e4-4fd1-81ca-db1a3f56d56e",
+            "project": {
+              "project_id": "TCGA-BRCA",
+              "name": "Breast Invasive Carcinoma"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "63eff205-4fd4-4148-a596-2f7c17da328f.rna_seq.transcriptome.gdc_realn.bam",
+        "file_id": "00000073-27e1-4dcd-bfdc-e458c31feec2",
+        "data_type": "Aligned Reads",
+        "data_category": "Sequencing Reads",
+        "experimental_strategy": "RNA-Seq"
+      },
+      {
+        "id": "00000a69-52b9-4333-9990-f7b448d53b67",
+        "cases": [
+          {
+            "primary_site": "Thyroid gland",
+            "disease_type": "Adenomas and Adenocarcinomas",
+            "case_id": "a9d8f797-8a53-4be5-b957-0f1f6d080390",
+            "project": {
+              "project_id": "TCGA-THCA",
+              "name": "Thyroid Carcinoma"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "67bd1757-bb7f-43a9-b767-593f4174a253.rna_seq.transcriptome.gdc_realn.bam",
+        "file_id": "00000a69-52b9-4333-9990-f7b448d53b67",
+        "data_type": "Aligned Reads",
+        "data_category": "Sequencing Reads",
+        "experimental_strategy": "RNA-Seq"
+      },
+      {
+        "id": "00000c20-b875-4821-8d4b-c50d7a7f9879",
+        "cases": [
+          {
+            "primary_site": "Bronchus and lung",
+            "disease_type": "Adenomas and Adenocarcinomas",
+            "case_id": "61d19d17-c18d-488f-8aa2-7140168af673",
+            "project": {
+              "project_id": "CGCI-HTMCP-LC",
+              "name": "HIV+ Tumor Molecular Characterization Project - Lung Cancer"
+            }
+          }
+        ],
+        "access": "open",
+        "file_name": "09743be0-4b54-4e31-aa66-c9202a49bd59.rna_seq.augmented_star_gene_counts.tsv",
+        "file_id": "00000c20-b875-4821-8d4b-c50d7a7f9879",
+        "data_type": "Gene Expression Quantification",
+        "data_category": "Transcriptome Profiling",
+        "experimental_strategy": "RNA-Seq"
+      },
+      {
+        "id": "000011cc-972b-4e9f-885b-3736d05b8ba1",
+        "cases": [
+          {
+            "primary_site": "Bronchus and lung",
+            "disease_type": "Squamous Cell Neoplasms",
+            "case_id": "785aebb1-a760-4167-9076-53024e317d04",
+            "project": {
+              "project_id": "CPTAC-3",
+              "name": "CPTAC-Brain, Head and Neck, Kidney, Lung, Pancreas, Uterus"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "CPTAC_3.1edcdb81-bfea-4024-8f07-f4d235c730a1.wxs.VarScan2.somatic_annotation.vcf.gz",
+        "file_id": "000011cc-972b-4e9f-885b-3736d05b8ba1",
+        "data_type": "Annotated Somatic Mutation",
+        "data_category": "Simple Nucleotide Variation",
+        "experimental_strategy": "WXS"
+      },
+      {
+        "id": "000016e6-2466-4148-8a89-325635c0a61d",
+        "cases": [
+          {
+            "primary_site": "Larynx",
+            "disease_type": "Squamous Cell Neoplasms",
+            "case_id": "f22eac21-8a74-433a-b65c-3540d14a45cb",
+            "project": {
+              "project_id": "TCGA-HNSC",
+              "name": "Head and Neck Squamous Cell Carcinoma"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "TCGA_HNSC.b8124366-c3eb-4ccb-bd7b-2feccd3ca468.wxs.MuSE.somatic_annotation.vcf.gz",
+        "file_id": "000016e6-2466-4148-8a89-325635c0a61d",
+        "data_type": "Annotated Somatic Mutation",
+        "data_category": "Simple Nucleotide Variation",
+        "experimental_strategy": "WXS"
+      },
+      {
+        "id": "000028b4-a9d5-4f88-9716-77755cc18ca7",
+        "cases": [
+          {
+            "primary_site": "Hematopoietic and reticuloendothelial systems",
+            "disease_type": "Acute Lymphoblastic Leukemia",
+            "case_id": "fd4b20a1-a499-44a1-b449-352de3ee5406",
+            "project": {
+              "project_id": "MP2PRT-ALL",
+              "name": "Molecular Profiling to Predict Response to Treatment for Acute Lymphoblastic Leukemia"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "db62114c-27e8-4850-a70d-b5d81fb33e53.rna_seq.chimeric.gdc_realn.bam",
+        "file_id": "000028b4-a9d5-4f88-9716-77755cc18ca7",
+        "data_type": "Aligned Reads",
+        "data_category": "Sequencing Reads",
+        "experimental_strategy": "RNA-Seq"
+      },
+      {
+        "id": "000037ca-1d3e-4866-b48b-e194f76b1180",
+        "cases": [
+          {
+            "primary_site": "Brain",
+            "disease_type": "Gliomas",
+            "case_id": "7fe37feb-e205-4524-8c98-1f9ac5fe0700",
+            "project": {
+              "project_id": "TCGA-GBM",
+              "name": "Glioblastoma Multiforme"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "963bea75-a25b-43f7-8be4-820c8228b298.wxs.MuTect2.aliquot.maf.gz",
+        "file_id": "000037ca-1d3e-4866-b48b-e194f76b1180",
+        "data_type": "Annotated Somatic Mutation",
+        "data_category": "Simple Nucleotide Variation",
+        "experimental_strategy": "WXS"
+      },
+      {
+        "id": "0000387a-9d49-410a-bab8-436144bb1850",
+        "cases": [
+          {
+            "primary_site": "Thyroid gland",
+            "disease_type": "Adenomas and Adenocarcinomas",
+            "case_id": "99ef2fec-5a3c-4e42-8f78-7eaf9877e26d",
+            "project": {
+              "project_id": "TCGA-THCA",
+              "name": "Thyroid Carcinoma"
+            }
+          }
+        ],
+        "access": "open",
+        "file_name": "TCGA-THCA.e0e3bbc2-4d34-45c4-96fa-0a7c7e0f0c4f.ascat3.allelic_specific.seg.txt",
+        "file_id": "0000387a-9d49-410a-bab8-436144bb1850",
+        "data_type": "Allele-specific Copy Number Segment",
+        "data_category": "Copy Number Variation",
+        "experimental_strategy": "Genotyping Array"
+      },
+      {
+        "id": "00003d15-c0e8-43ae-b468-6cda39e4fc50",
+        "cases": [
+          {
+            "primary_site": "Bronchus and lung",
+            "disease_type": "Adenomas and Adenocarcinomas",
+            "case_id": "1427cd18-5ad3-491a-9981-908e31ae49db",
+            "project": {
+              "project_id": "TCGA-LUAD",
+              "name": "Lung Adenocarcinoma"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "c95b334a-5a84-401b-8817-08499952a77d.wxs.mutect2.raw_somatic_mutation.vcf.gz",
+        "file_id": "00003d15-c0e8-43ae-b468-6cda39e4fc50",
+        "data_type": "Raw Simple Somatic Mutation",
+        "data_category": "Simple Nucleotide Variation",
+        "experimental_strategy": "WXS"
+      },
+      {
+        "id": "00004867-a1ee-4555-916e-3b75fc710def",
+        "cases": [
+          {
+            "primary_site": "Cervix uteri",
+            "disease_type": "Squamous Cell Neoplasms",
+            "case_id": "1350f0b3-06bc-42dd-90e4-bed1af31c176",
+            "project": {
+              "project_id": "CGCI-HTMCP-CC",
+              "name": "HIV+ Tumor Molecular Characterization Project - Cervical Cancer"
+            }
+          }
+        ],
+        "access": "open",
+        "file_name": "HTMCP-03-06-02108-01_P16.svs",
+        "file_id": "00004867-a1ee-4555-916e-3b75fc710def",
+        "data_type": "Slide Image",
+        "data_category": "Biospecimen",
+        "experimental_strategy": "Tissue Slide"
+      },
+      {
+        "id": "0000498a-43cf-4ef3-87b2-f95ff303f9ba",
+        "cases": [
+          {
+            "primary_site": "Hematopoietic and reticuloendothelial systems",
+            "disease_type": "Mature B-Cell Lymphomas",
+            "case_id": "2d9d88c8-d827-4bc8-88c6-75e0d0c3f988",
+            "project": {
+              "project_id": "CGCI-BLGSP",
+              "name": "Burkitt Lymphoma Genome Sequencing Project"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "CGCI-BLGSP.a297a62b-2859-4ce1-a8cb-9948a1facca0.star_fusion.rna_fusion.tsv",
+        "file_id": "0000498a-43cf-4ef3-87b2-f95ff303f9ba",
+        "data_type": "Transcript Fusion",
+        "data_category": "Structural Variation",
+        "experimental_strategy": "RNA-Seq"
+      },
+      {
+        "id": "000052b4-e9b9-4d35-a107-e2e662ea8eee",
+        "cases": [
+          {
+            "primary_site": "Pancreas",
+            "disease_type": "Adenomas and Adenocarcinomas",
+            "case_id": "41537847-e29c-446a-b83b-ef0bb5085c75",
+            "project": {
+              "project_id": "HCMI-CMDC",
+              "name": "NCI Cancer Model Development for the Human Cancer Model Initiative"
+            }
+          }
+        ],
+        "access": "open",
+        "file_name": "3dd14304-134a-4aa9-8f8c-7381e8531fe7_noid_Grn.idat",
+        "file_id": "000052b4-e9b9-4d35-a107-e2e662ea8eee",
+        "data_type": "Masked Intensities",
+        "data_category": "DNA Methylation",
+        "experimental_strategy": "Methylation Array"
+      },
+      {
+        "id": "000091b9-ffc0-457b-ae9a-bce3dfdc08a8",
+        "cases": [
+          {
+            "primary_site": "Breast",
+            "disease_type": "Ductal and Lobular Neoplasms",
+            "case_id": "7e87b94a-f951-486e-9a1d-a4c0c58fb95a",
+            "project": {
+              "project_id": "CMI-MBC",
+              "name": "Count Me In (CMI): The Metastatic Breast Cancer (MBC) Project"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "CMI_MBC.d0da1793-96fc-4335-90fb-d1f389edf1cc.wxs.VarScan2.somatic_annotation.vcf.gz",
+        "file_id": "000091b9-ffc0-457b-ae9a-bce3dfdc08a8",
+        "data_type": "Annotated Somatic Mutation",
+        "data_category": "Simple Nucleotide Variation",
+        "experimental_strategy": "WXS"
+      },
+      {
+        "id": "000099bd-7b45-416f-add5-7498493f088d",
+        "cases": [
+          {
+            "primary_site": "Testis",
+            "disease_type": "Germ Cell Neoplasms",
+            "case_id": "18e7182d-16e8-4eff-96ec-56ff241810d3",
+            "project": {
+              "project_id": "TCGA-TGCT",
+              "name": "Testicular Germ Cell Tumors"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "0ddb7862-e04c-429f-b285-0ffd34fbfddb.wxs.Pindel.aliquot.maf.gz",
+        "file_id": "000099bd-7b45-416f-add5-7498493f088d",
+        "data_type": "Annotated Somatic Mutation",
+        "data_category": "Simple Nucleotide Variation",
+        "experimental_strategy": "WXS"
+      },
+      {
+        "id": "00009fe1-dae3-45f2-b1b9-2503ff88eeda",
+        "cases": [
+          {
+            "primary_site": "Bronchus and lung",
+            "disease_type": "Squamous Cell Neoplasms",
+            "case_id": "96006f5e-5922-4e55-afa5-5e43773d72f2",
+            "project": {
+              "project_id": "TCGA-LUSC",
+              "name": "Lung Squamous Cell Carcinoma"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "TCGA_LUSC.1d7cea5f-6fd2-47a0-b7cc-3624c547f595.wxs.MuSE.somatic_annotation.vcf.gz",
+        "file_id": "00009fe1-dae3-45f2-b1b9-2503ff88eeda",
+        "data_type": "Annotated Somatic Mutation",
+        "data_category": "Simple Nucleotide Variation",
+        "experimental_strategy": "WXS"
+      },
+      {
+        "id": "0000d5ae-c128-41dc-a3d0-a9f6c9d4d9e0",
+        "cases": [
+          {
+            "primary_site": "Hematopoietic and reticuloendothelial systems",
+            "disease_type": "Lymphoid Leukemias",
+            "case_id": "ed12c3bf-4a52-4b10-869a-2752dcf75143",
+            "project": {
+              "project_id": "MP2PRT-ALL",
+              "name": "Molecular Profiling to Predict Response to Treatment for Acute Lymphoblastic Leukemia"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "MP2PRT_ALL.e24413d6-f828-4b03-8708-f150a0076cc5.wxs.MuSE.somatic_annotation.vcf.gz",
+        "file_id": "0000d5ae-c128-41dc-a3d0-a9f6c9d4d9e0",
+        "data_type": "Annotated Somatic Mutation",
+        "data_category": "Simple Nucleotide Variation",
+        "experimental_strategy": "WXS"
+      },
+      {
+        "id": "0000d5c6-4c48-49b2-85f6-5406b11ce8b6",
+        "access": "controlled",
+        "cases": [
+          {
+            "primary_site": "Brain",
+            "disease_type": "Gliomas",
+            "case_id": "c970240f-03e2-4395-85be-5eb81a69b710",
+            "project": {
+              "project_id": "TCGA-GBM",
+              "name": "Glioblastoma Multiforme"
+            }
+          }
+        ],
+        "file_name": "a1de7a70-a829-4491-92ab-8db44391ba19.rna_seq.genomic.gdc_realn.bam",
+        "file_id": "0000d5c6-4c48-49b2-85f6-5406b11ce8b6",
+        "data_type": "Aligned Reads",
+        "data_category": "Sequencing Reads",
+        "experimental_strategy": "RNA-Seq"
+      },
+      {
+        "id": "0000e149-fb6f-463a-a857-495f5f5dd7a2",
+        "cases": [
+          {
+            "primary_site": "Pancreas",
+            "disease_type": "Ductal and Lobular Neoplasms",
+            "case_id": "b8bda40b-9820-47a9-abb4-4ebcb2cf8b62",
+            "project": {
+              "project_id": "CPTAC-3",
+              "name": "CPTAC-Brain, Head and Neck, Kidney, Lung, Pancreas, Uterus"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "fbe08459-a1d9-4b81-98b0-c1820c72cceb.wgs.BRASS.raw_structural_variation.vcf.gz",
+        "file_id": "0000e149-fb6f-463a-a857-495f5f5dd7a2",
+        "data_type": "Structural Rearrangement",
+        "data_category": "Somatic Structural Variation",
+        "experimental_strategy": "WGS"
+      },
+      {
+        "id": "0000e8b4-1361-41b9-b11d-bcd26d4c5ee1",
+        "cases": [
+          {
+            "primary_site": "Brain",
+            "disease_type": "Nevi and Melanomas",
+            "case_id": "ce727e9e-325d-41d8-bfaf-0051418b9bef",
+            "project": {
+              "project_id": "TCGA-SKCM",
+              "name": "Skin Cutaneous Melanoma"
+            }
+          }
+        ],
+        "access": "open",
+        "file_name": "74940d19-7a99-4323-9b8c-07cca52faf3c.wxs.aliquot_ensemble_masked.maf.gz",
+        "file_id": "0000e8b4-1361-41b9-b11d-bcd26d4c5ee1",
+        "data_type": "Masked Somatic Mutation",
+        "data_category": "Simple Nucleotide Variation",
+        "experimental_strategy": "WXS"
+      },
+      {
+        "id": "0000f086-7e12-4778-bdca-959761c1d39e",
+        "cases": [
+          {
+            "primary_site": "Bones, joints and articular cartilage of limbs",
+            "disease_type": "Osseous and Chondromatous Neoplasms",
+            "case_id": "8410e97b-d786-5bfd-bdd5-7b052c42934c",
+            "project": {
+              "project_id": "TARGET-OS",
+              "name": "Osteosarcoma"
+            }
+          }
+        ],
+        "access": "open",
+        "file_name": "2c7dfeb1-0616-418d-96b7-d2ec8cd3f9dc.wxs.aliquot_ensemble_masked.maf.gz",
+        "file_id": "0000f086-7e12-4778-bdca-959761c1d39e",
+        "data_type": "Masked Somatic Mutation",
+        "data_category": "Simple Nucleotide Variation",
+        "experimental_strategy": "WXS"
+      },
+      {
+        "id": "0000f530-6360-487e-abe7-4dd4dc4f1dce",
+        "cases": [
+          {
+            "primary_site": "Breast",
+            "disease_type": "Ductal and Lobular Neoplasms",
+            "case_id": "b3264748-947a-43aa-b227-b294fbcc8447",
+            "project": {
+              "project_id": "TCGA-BRCA",
+              "name": "Breast Invasive Carcinoma"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "TCGA_BRCA.e7bc7eaa-5912-47c3-8396-23ee0b4cd20a.wxs.MuTect2.somatic_annotation.vcf.gz",
+        "file_id": "0000f530-6360-487e-abe7-4dd4dc4f1dce",
+        "data_type": "Annotated Somatic Mutation",
+        "data_category": "Simple Nucleotide Variation",
+        "experimental_strategy": "WXS"
+      },
+      {
+        "id": "0000fa33-7efb-4922-9a2b-6ea03b08cca7",
+        "cases": [
+          {
+            "primary_site": "Bones, joints and articular cartilage of limbs",
+            "disease_type": "Osseous and Chondromatous Neoplasms",
+            "case_id": "48222f31-9442-58ff-a452-4f2cd9af533d",
+            "project": {
+              "project_id": "TARGET-OS",
+              "name": "Osteosarcoma"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "TARGET-OS.2b51256c-2da2-4860-bc97-a1652bd66367.targeted_sequencing.pindel.raw_somatic_mutation.vcf.gz",
+        "file_id": "0000fa33-7efb-4922-9a2b-6ea03b08cca7",
+        "data_type": "Raw Simple Somatic Mutation",
+        "data_category": "Simple Nucleotide Variation",
+        "experimental_strategy": "Targeted Sequencing"
+      },
+      {
+        "id": "0000fb05-2ef3-43d4-8262-5495f1bf66e6",
+        "access": "controlled",
+        "cases": [
+          {
+            "primary_site": "Not Reported",
+            "disease_type": "Not Reported",
+            "case_id": "c7b9dcee-87db-4c61-a85a-52371e6a4745",
+            "project": {
+              "project_id": "ALCHEMIST-ALCH",
+              "name": "Adjuvant Lung Cancer Enrichment Marker Identification and Sequencing Trial"
+            }
+          }
+        ],
+        "file_name": "46b8cd49-0f8c-47b9-8330-3df91338bd21_wxs_gdc_realn.bam",
+        "file_id": "0000fb05-2ef3-43d4-8262-5495f1bf66e6",
+        "data_type": "Aligned Reads",
+        "data_category": "Sequencing Reads",
+        "experimental_strategy": "WXS"
+      },
+      {
+        "id": "0001018f-d6d7-4a4b-b44d-b09b637b1ab7",
+        "cases": [
+          {
+            "primary_site": "Bronchus and lung",
+            "disease_type": "Adenomas and Adenocarcinomas",
+            "case_id": "397d3f69-1453-4057-b177-8723eec923d1",
+            "project": {
+              "project_id": "TCGA-LUAD",
+              "name": "Lung Adenocarcinoma"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "b53243fa-c0bb-4ecd-80b7-ccae70f9aa3c.wxs.muse.raw_somatic_mutation.vcf.gz",
+        "file_id": "0001018f-d6d7-4a4b-b44d-b09b637b1ab7",
+        "data_type": "Raw Simple Somatic Mutation",
+        "data_category": "Simple Nucleotide Variation",
+        "experimental_strategy": "WXS"
+      },
+      {
+        "id": "00010e83-90b4-44c7-9781-bd4eb8e52bac",
+        "cases": [
+          {
+            "primary_site": "Thyroid gland",
+            "disease_type": "Adenomas and Adenocarcinomas",
+            "case_id": "0eeafc20-9250-4565-951a-9c9fa96f7c8b",
+            "project": {
+              "project_id": "REBC-THYR",
+              "name": "Comprehensive genomic characterization of radiation-related papillary thyroid cancer in the Ukraine"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "REBC-THYR.ac96bd79-529e-4222-bec1-c86dff28972c.star_fusion.rna_fusion.bedpe",
+        "file_id": "00010e83-90b4-44c7-9781-bd4eb8e52bac",
+        "data_type": "Transcript Fusion",
+        "data_category": "Structural Variation",
+        "experimental_strategy": "RNA-Seq"
+      },
+      {
+        "id": "00011736-5ea5-4539-b73b-e3140fc6c539",
+        "cases": [
+          {
+            "primary_site": "Thyroid gland",
+            "disease_type": "Adenomas and Adenocarcinomas",
+            "case_id": "3aa43b4a-8133-4fb3-a3d8-e4cd6ccc4c8a",
+            "project": {
+              "project_id": "REBC-THYR",
+              "name": "Comprehensive genomic characterization of radiation-related papillary thyroid cancer in the Ukraine"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "14a24a56-f3c4-436d-bd03-3970b2a04f51.rna_seq.star_splice_junctions.tsv.gz",
+        "file_id": "00011736-5ea5-4539-b73b-e3140fc6c539",
+        "data_type": "Splice Junction Quantification",
+        "data_category": "Transcriptome Profiling",
+        "experimental_strategy": "RNA-Seq"
+      },
+      {
+        "id": "00012ff2-f1c7-496c-9519-c7cb76731427",
+        "access": "controlled",
+        "cases": [
+          {
+            "primary_site": "Hematopoietic and reticuloendothelial systems",
+            "disease_type": "Acute Lymphoblastic Leukemia",
+            "case_id": "cb760dcc-ee6e-4111-a74e-a2963e5be192",
+            "project": {
+              "project_id": "MP2PRT-ALL",
+              "name": "Molecular Profiling to Predict Response to Treatment for Acute Lymphoblastic Leukemia"
+            }
+          }
+        ],
+        "file_name": "3d0ac814-70ee-4e6b-96ec-e397669fd4e7_wgs_gdc_realn.bam",
+        "file_id": "00012ff2-f1c7-496c-9519-c7cb76731427",
+        "data_type": "Aligned Reads",
+        "data_category": "Sequencing Reads",
+        "experimental_strategy": "WGS"
+      },
+      {
+        "id": "0001310d-964e-4c94-bde5-0510e5b76bb9",
+        "cases": [
+          {
+            "primary_site": "Ovary",
+            "disease_type": "Cystic, Mucinous and Serous Neoplasms",
+            "case_id": "098acb76-0bf5-44e5-bcae-f919cf5fa5e5",
+            "project": {
+              "project_id": "TCGA-OV",
+              "name": "Ovarian Serous Cystadenocarcinoma"
+            }
+          }
+        ],
+        "access": "open",
+        "file_name": "93959bfa-3652-4474-b3e8-b6207f518ce7.wxs.aliquot_ensemble_masked.maf.gz",
+        "file_id": "0001310d-964e-4c94-bde5-0510e5b76bb9",
+        "data_type": "Masked Somatic Mutation",
+        "data_category": "Simple Nucleotide Variation",
+        "experimental_strategy": "WXS"
+      },
+      {
+        "id": "00013b46-3d01-4ef7-8366-918643a9d5f1",
+        "cases": [
+          {
+            "primary_site": "Hematopoietic and reticuloendothelial systems",
+            "disease_type": "Acute Lymphoblastic Leukemia",
+            "case_id": "4e5f2d01-0b10-4e19-9088-6ad8f2313484",
+            "project": {
+              "project_id": "MP2PRT-ALL",
+              "name": "Molecular Profiling to Predict Response to Treatment for Acute Lymphoblastic Leukemia"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "MP2PRT-ALL.350281b0-5d31-4499-9f2c-0d9328a0f270.wgs.varscan2.raw_somatic_mutation.vcf.gz",
+        "file_id": "00013b46-3d01-4ef7-8366-918643a9d5f1",
+        "data_type": "Raw Simple Somatic Mutation",
+        "data_category": "Simple Nucleotide Variation",
+        "experimental_strategy": "WGS"
+      },
+      {
+        "id": "0001516c-18b3-43c3-a06b-560742e343b3",
+        "cases": [
+          {
+            "primary_site": "Breast",
+            "disease_type": "Ductal and Lobular Neoplasms",
+            "case_id": "34ab0cb8-bf19-4cbb-b4eb-3c45ee5aa60b",
+            "project": {
+              "project_id": "TCGA-BRCA",
+              "name": "Breast Invasive Carcinoma"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "31902377-6310-4892-a8f9-e2dfd11e155d.svaba.somatic.sv.vcf.gz",
+        "file_id": "0001516c-18b3-43c3-a06b-560742e343b3",
+        "data_type": "Structural Rearrangement",
+        "data_category": "Somatic Structural Variation",
+        "experimental_strategy": "WGS"
+      },
+      {
+        "id": "00016ed7-bdbd-4f06-bb49-2272ed100578",
+        "cases": [
+          {
+            "primary_site": "Hematopoietic and reticuloendothelial systems",
+            "disease_type": "Lymphoid Leukemias",
+            "case_id": "b1c86310-566e-47b2-8669-d2f802e6bcbc",
+            "project": {
+              "project_id": "TARGET-ALL-P2",
+              "name": "Acute Lymphoblastic Leukemia - Phase II"
+            }
+          }
+        ],
+        "access": "open",
+        "file_name": "7ff8d52b-90cd-4ee2-a846-754f39d8eafe.rna_seq.augmented_star_gene_counts.tsv",
+        "file_id": "00016ed7-bdbd-4f06-bb49-2272ed100578",
+        "data_type": "Gene Expression Quantification",
+        "data_category": "Transcriptome Profiling",
+        "experimental_strategy": "RNA-Seq"
+      },
+      {
+        "id": "00018368-2539-438a-82fc-42530f9f5302",
+        "cases": [
+          {
+            "primary_site": "Ovary",
+            "disease_type": "Cystic, Mucinous and Serous Neoplasms",
+            "case_id": "d8919e26-2ca9-4d13-99b0-9fe03b41ab56",
+            "project": {
+              "project_id": "CPTAC-2",
+              "name": "CPTAC-Breast, Colon, Ovary"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "CPTAC_2.552d995c-ce04-4948-afdf-47b31c78eb65.wxs.MuSE.somatic_annotation.vcf.gz",
+        "file_id": "00018368-2539-438a-82fc-42530f9f5302",
+        "data_type": "Annotated Somatic Mutation",
+        "data_category": "Simple Nucleotide Variation",
+        "experimental_strategy": "WXS"
+      },
+      {
+        "id": "0001ae19-fb26-4036-a0a4-f353a59e5319",
+        "access": "controlled",
+        "cases": [
+          {
+            "primary_site": "Colon",
+            "disease_type": "Adenomas and Adenocarcinomas",
+            "case_id": "118bf677-caed-4f7f-a837-dd966dce5ca7",
+            "project": {
+              "project_id": "HCMI-CMDC",
+              "name": "NCI Cancer Model Development for the Human Cancer Model Initiative"
+            }
+          }
+        ],
+        "file_name": "f22f4ca4-aef2-49e0-bdbf-7745cadc7a24_wgs_gdc_realn.bam",
+        "file_id": "0001ae19-fb26-4036-a0a4-f353a59e5319",
+        "data_type": "Aligned Reads",
+        "data_category": "Sequencing Reads",
+        "experimental_strategy": "WGS"
+      },
+      {
+        "id": "0001ae7a-fa07-47b9-be2c-1839dcefacfd",
+        "cases": [
+          {
+            "primary_site": "Stomach",
+            "disease_type": "Adenomas and Adenocarcinomas",
+            "case_id": "0f1da632-3874-42cc-930a-c8e5d1e64d71",
+            "project": {
+              "project_id": "CPTAC-3",
+              "name": "CPTAC-Brain, Head and Neck, Kidney, Lung, Pancreas, Uterus"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "CPTAC-3.ac655271-fc62-43f9-8fb0-0f17f2977c2b.wxs.pindel.raw_somatic_mutation.vcf.gz",
+        "file_id": "0001ae7a-fa07-47b9-be2c-1839dcefacfd",
+        "data_type": "Raw Simple Somatic Mutation",
+        "data_category": "Simple Nucleotide Variation",
+        "experimental_strategy": "WXS"
+      },
+      {
+        "id": "0001b0cd-525c-4c2e-98b6-ec99dec9ba86",
+        "cases": [
+          {
+            "primary_site": "Brain",
+            "disease_type": "Neoplasms, NOS",
+            "case_id": "b54d35de-6141-49d2-bfb8-fdbdea249687",
+            "project": {
+              "project_id": "CCDI-MCI",
+              "name": "Molecular Characterization Initiative (MCI)"
+            }
+          }
+        ],
+        "access": "open",
+        "file_name": "b8c615f8-73b2-42a4-8e8c-3bfc47db0b6c.methylation_array.sesame.level3betas.txt",
+        "file_id": "0001b0cd-525c-4c2e-98b6-ec99dec9ba86",
+        "data_type": "Methylation Beta Value",
+        "data_category": "DNA Methylation",
+        "experimental_strategy": "Methylation Array"
+      },
+      {
+        "id": "0001c94e-103f-4841-af34-0c3414bc531d",
+        "cases": [
+          {
+            "primary_site": "Hematopoietic and reticuloendothelial systems",
+            "disease_type": "Myeloid Leukemias",
+            "case_id": "3715748b-f9d1-47e8-a959-c5bfa8d5dca5",
+            "project": {
+              "project_id": "TARGET-AML",
+              "name": "Acute Myeloid Leukemia"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "TARGET-AML.4379f59b-3d97-4282-a27a-60075ef30ff4.star_fusion.rna_fusion.bedpe",
+        "file_id": "0001c94e-103f-4841-af34-0c3414bc531d",
+        "data_type": "Transcript Fusion",
+        "data_category": "Structural Variation",
+        "experimental_strategy": "RNA-Seq"
+      },
+      {
+        "id": "0001d41d-1719-4674-8c7b-83b5e8e6ea7a",
+        "cases": [
+          {
+            "primary_site": "Hematopoietic and reticuloendothelial systems",
+            "disease_type": "Chronic Myeloproliferative Disorders",
+            "case_id": "96755245-5c02-476c-8612-5bff1be3a713",
+            "project": {
+              "project_id": "OHSU-CNL",
+              "name": "Philadelphia-Negative Neutrophilic Leukemias (CNL/aCML/MDS/MPNu)"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "OHSU-CNL.3053487a-cda0-4693-ba56-e8a94c301984.arriba.rna_fusion.bedpe",
+        "file_id": "0001d41d-1719-4674-8c7b-83b5e8e6ea7a",
+        "data_type": "Transcript Fusion",
+        "data_category": "Structural Variation",
+        "experimental_strategy": "RNA-Seq"
+      },
+      {
+        "id": "0001da61-6439-4b61-ba34-32b78d56ca94",
+        "cases": [
+          {
+            "primary_site": "Thyroid gland",
+            "disease_type": "Adenomas and Adenocarcinomas",
+            "case_id": "4be84ffe-4b12-4b71-90bb-9ea0ca6947f8",
+            "project": {
+              "project_id": "TCGA-THCA",
+              "name": "Thyroid Carcinoma"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "TCGA_THCA.be52d9d2-6176-4190-a4e4-7c9ffba525c5.wxs.MuTect2.somatic_annotation.vcf.gz",
+        "file_id": "0001da61-6439-4b61-ba34-32b78d56ca94",
+        "data_type": "Annotated Somatic Mutation",
+        "data_category": "Simple Nucleotide Variation",
+        "experimental_strategy": "WXS"
+      },
+      {
+        "id": "0001e8c8-d4aa-41d0-bf4d-fda8db5de4f9",
+        "cases": [
+          {
+            "primary_site": "Bronchus and lung",
+            "disease_type": "Squamous Cell Neoplasms",
+            "case_id": "46f35964-bd43-47e6-83fe-40da33828c94",
+            "project": {
+              "project_id": "TCGA-LUSC",
+              "name": "Lung Squamous Cell Carcinoma"
+            }
+          }
+        ],
+        "access": "open",
+        "file_name": "nationwidechildrens.org_clinical.TCGA-85-6561.xml",
+        "file_id": "0001e8c8-d4aa-41d0-bf4d-fda8db5de4f9",
+        "data_type": "Clinical Supplement",
+        "data_category": "Clinical"
+      },
+      {
+        "id": "00020ac3-b53a-4b27-9735-b2a2ad122cd3",
+        "cases": [
+          {
+            "primary_site": "Thyroid gland",
+            "disease_type": "Adenomas and Adenocarcinomas",
+            "case_id": "2bc6a14d-b009-4241-8c6c-5cb9e6ffa3d2",
+            "project": {
+              "project_id": "REBC-THYR",
+              "name": "Comprehensive genomic characterization of radiation-related papillary thyroid cancer in the Ukraine"
+            }
+          }
+        ],
+        "access": "open",
+        "file_name": "2d00e946-5feb-457b-998d-2e89d83fa795.mirnaseq.isoforms.quantification.txt",
+        "file_id": "00020ac3-b53a-4b27-9735-b2a2ad122cd3",
+        "data_type": "Isoform Expression Quantification",
+        "data_category": "Transcriptome Profiling",
+        "experimental_strategy": "miRNA-Seq"
+      },
+      {
+        "id": "00022054-fbff-4694-b6e8-f9dc613d133d",
+        "cases": [
+          {
+            "primary_site": "Hematopoietic and reticuloendothelial systems",
+            "disease_type": "Acute Lymphoblastic Leukemia",
+            "case_id": "b6898066-3353-4dcd-b85f-efcb63fe21f9",
+            "project": {
+              "project_id": "MP2PRT-ALL",
+              "name": "Molecular Profiling to Predict Response to Treatment for Acute Lymphoblastic Leukemia"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "f29fa8a4-8e85-45f2-bd41-364a7ce8f9d6.wxs.MuTect2.aliquot.maf.gz",
+        "file_id": "00022054-fbff-4694-b6e8-f9dc613d133d",
+        "data_type": "Annotated Somatic Mutation",
+        "data_category": "Simple Nucleotide Variation",
+        "experimental_strategy": "WXS"
+      },
+      {
+        "id": "000221bb-607d-4146-9e73-488782f4e892",
+        "cases": [
+          {
+            "primary_site": "Kidney",
+            "disease_type": "Adenomas and Adenocarcinomas",
+            "case_id": "9aa63985-16ba-4d43-a6ec-4a35f2ff6513",
+            "project": {
+              "project_id": "TCGA-KIRC",
+              "name": "Kidney Renal Clear Cell Carcinoma"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "NARKY_p_TCGAb69_SNP_N_GenomeWideSNP_6_G06_697956.CEL",
+        "file_id": "000221bb-607d-4146-9e73-488782f4e892",
+        "data_type": "Raw Intensities",
+        "data_category": "Copy Number Variation",
+        "experimental_strategy": "Genotyping Array"
+      },
+      {
+        "id": "00022dda-e6e4-416f-9bd7-8dbdd7c26adc",
+        "cases": [
+          {
+            "primary_site": "Breast",
+            "disease_type": "Ductal and Lobular Neoplasms",
+            "case_id": "6135448b-e32a-4836-8355-b00036503577",
+            "project": {
+              "project_id": "HCMI-CMDC",
+              "name": "NCI Cancer Model Development for the Human Cancer Model Initiative"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "c7ef2a26-f218-40d8-82e7-7c4853bff69a.rna_seq.transcriptome.gdc_realn.bam",
+        "file_id": "00022dda-e6e4-416f-9bd7-8dbdd7c26adc",
+        "data_type": "Aligned Reads",
+        "data_category": "Sequencing Reads",
+        "experimental_strategy": "RNA-Seq"
+      },
+      {
+        "id": "00023362-cdff-443a-be28-6f761cdd0a82",
+        "cases": [
+          {
+            "primary_site": "Corpus uteri",
+            "disease_type": "Cystic, Mucinous and Serous Neoplasms",
+            "case_id": "ab7adf74-6e87-4117-9742-54e323348e06",
+            "project": {
+              "project_id": "TCGA-UCEC",
+              "name": "Uterine Corpus Endometrial Carcinoma"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "f742d544-b4b6-418d-bb52-132130b40516.wxs.MuSE.aliquot.maf.gz",
+        "file_id": "00023362-cdff-443a-be28-6f761cdd0a82",
+        "data_type": "Annotated Somatic Mutation",
+        "data_category": "Simple Nucleotide Variation",
+        "experimental_strategy": "WXS"
+      },
+      {
+        "id": "0002376a-a3eb-4a11-95a7-1641c9693fe7",
+        "cases": [
+          {
+            "primary_site": "Eye and adnexa",
+            "disease_type": "Nevi and Melanomas",
+            "case_id": "6827dd29-0c47-4128-b6b8-959fb8fdf8ce",
+            "project": {
+              "project_id": "FM-AD",
+              "name": "Foundation Medicine Adult Cancer Clinical Dataset (FM-AD)"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "ad775838-a327-4576-ad18-99e211a85e50.targeted_sequencing.aliquot.maf.gz",
+        "file_id": "0002376a-a3eb-4a11-95a7-1641c9693fe7",
+        "data_type": "Aggregated Somatic Mutation",
+        "data_category": "Simple Nucleotide Variation",
+        "experimental_strategy": "Targeted Sequencing"
+      },
+      {
+        "id": "000245c7-5287-40bf-80bb-4e2b923ab57b",
+        "access": "controlled",
+        "cases": [
+          {
+            "primary_site": "Kidney",
+            "disease_type": "Complex Mixed and Stromal Neoplasms",
+            "case_id": "d464ba83-9d88-5034-be1c-d6e84d5014a5",
+            "project": {
+              "project_id": "TARGET-RT",
+              "name": "Rhabdoid Tumor"
+            }
+          }
+        ],
+        "file_name": "4d5c3e63-e914-43f5-b4f0-05f6efe34cdd.rna_seq.genomic.gdc_realn.bam",
+        "file_id": "000245c7-5287-40bf-80bb-4e2b923ab57b",
+        "data_type": "Aligned Reads",
+        "data_category": "Sequencing Reads",
+        "experimental_strategy": "RNA-Seq"
+      },
+      {
+        "id": "00024915-178b-44f9-a223-287911b2589d",
+        "cases": [
+          {
+            "primary_site": "Rectum",
+            "disease_type": "Adenomas and Adenocarcinomas",
+            "case_id": "da788f35-ce5c-4983-9a69-fa4db71bf33a",
+            "project": {
+              "project_id": "FM-AD",
+              "name": "Foundation Medicine Adult Cancer Clinical Dataset (FM-AD)"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "1b7c31e8-0112-4cda-9657-44f65cf48b17.targeted_sequencing.aliquot.maf.gz",
+        "file_id": "00024915-178b-44f9-a223-287911b2589d",
+        "data_type": "Aggregated Somatic Mutation",
+        "data_category": "Simple Nucleotide Variation",
+        "experimental_strategy": "Targeted Sequencing"
+      },
+      {
+        "id": "00025a86-2c15-4049-bbec-65fa63fe90e7",
+        "cases": [
+          {
+            "primary_site": "Bronchus and lung",
+            "disease_type": "Squamous Cell Neoplasms",
+            "case_id": "d4608593-20cb-4b53-b037-39aa8ddd05b7",
+            "project": {
+              "project_id": "TCGA-LUSC",
+              "name": "Lung Squamous Cell Carcinoma"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "TCGA-LUSC.e3418fae-8967-4c0d-8974-598380fe32dc.arriba.rna_fusion.bedpe",
+        "file_id": "00025a86-2c15-4049-bbec-65fa63fe90e7",
+        "data_type": "Transcript Fusion",
+        "data_category": "Structural Variation",
+        "experimental_strategy": "RNA-Seq"
+      },
+      {
+        "id": "00026a8f-d7bd-44e7-b377-d6bb1e076eef",
+        "cases": [
+          {
+            "primary_site": "Hematopoietic and reticuloendothelial systems",
+            "disease_type": "Myeloid Leukemias",
+            "case_id": "e78ff499-037b-450a-ac04-6fb3a9e124a4",
+            "project": {
+              "project_id": "TCGA-LAML",
+              "name": "Acute Myeloid Leukemia"
+            }
+          }
+        ],
+        "access": "open",
+        "file_name": "TCGA_AB_2806_03A_01D_0756_21.grch38.seg.v2.txt",
+        "file_id": "00026a8f-d7bd-44e7-b377-d6bb1e076eef",
+        "data_type": "Copy Number Segment",
+        "data_category": "Copy Number Variation",
+        "experimental_strategy": "Genotyping Array"
+      },
+      {
+        "id": "00026b14-e03c-4e67-9061-2e2eafe407d3",
+        "cases": [
+          {
+            "primary_site": "Breast",
+            "disease_type": "Ductal and Lobular Neoplasms",
+            "case_id": "17f275c1-a0d4-487d-8f02-ea279584b4cd",
+            "project": {
+              "project_id": "TCGA-BRCA",
+              "name": "Breast Invasive Carcinoma"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "TCGA-BRCA.f3d85a65-4f8f-4831-ade3-21f328d91e2f.wgs.varscan2.raw_somatic_mutation.vcf.gz",
+        "file_id": "00026b14-e03c-4e67-9061-2e2eafe407d3",
+        "data_type": "Raw Simple Somatic Mutation",
+        "data_category": "Simple Nucleotide Variation",
+        "experimental_strategy": "WGS"
+      },
+      {
+        "id": "0002845b-9ad2-4335-bc68-f60466adb551",
+        "cases": [
+          {
+            "primary_site": "Bronchus and lung",
+            "disease_type": "Squamous Cell Neoplasms",
+            "case_id": "585e6487-b0a3-4828-8a06-46bee01dff74",
+            "project": {
+              "project_id": "TCGA-LUSC",
+              "name": "Lung Squamous Cell Carcinoma"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "aed46007-b084-4c90-a5ba-f3bebc8bb447.wxs.mutect2.raw_somatic_mutation.vcf.gz",
+        "file_id": "0002845b-9ad2-4335-bc68-f60466adb551",
+        "data_type": "Raw Simple Somatic Mutation",
+        "data_category": "Simple Nucleotide Variation",
+        "experimental_strategy": "WXS"
+      },
+      {
+        "id": "000295f0-982f-4bf6-8af6-8cf468b97894",
+        "cases": [
+          {
+            "primary_site": "Prostate gland",
+            "disease_type": "Adenomas and Adenocarcinomas",
+            "case_id": "f6c11393-a4f7-4b86-9f11-59b4e1049fff",
+            "project": {
+              "project_id": "CMI-MPC",
+              "name": "Count Me In (CMI): The Metastatic Prostate Cancer (MPC) Project"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "CMI_MPC.c7a262e0-90d3-420b-ad4c-417138d0fa56.wxs.MuTect2.somatic_annotation.vcf.gz",
+        "file_id": "000295f0-982f-4bf6-8af6-8cf468b97894",
+        "data_type": "Annotated Somatic Mutation",
+        "data_category": "Simple Nucleotide Variation",
+        "experimental_strategy": "WXS"
+      },
+      {
+        "id": "0002a337-4291-4412-96dd-fbcbc757292c",
+        "cases": [
+          {
+            "primary_site": "Pancreas",
+            "disease_type": "Ductal and Lobular Neoplasms",
+            "case_id": "5965cd7b-f384-4473-826a-8381e362d10e",
+            "project": {
+              "project_id": "TCGA-PAAD",
+              "name": "Pancreatic Adenocarcinoma"
+            }
+          }
+        ],
+        "access": "open",
+        "file_name": "TCGA-PAAD.dd2b2c42-278c-4f94-a735-75dce0660649.ascat3.allelic_specific.seg.txt",
+        "file_id": "0002a337-4291-4412-96dd-fbcbc757292c",
+        "data_type": "Allele-specific Copy Number Segment",
+        "data_category": "Copy Number Variation",
+        "experimental_strategy": "Genotyping Array"
+      },
+      {
+        "id": "0002abd6-7c11-49f4-ab6c-a0ffb5b9a91b",
+        "cases": [
+          {
+            "primary_site": "Thyroid gland",
+            "disease_type": "Adenomas and Adenocarcinomas",
+            "case_id": "d92902ff-8023-411c-a7ca-1afcbb64937e",
+            "project": {
+              "project_id": "TCGA-THCA",
+              "name": "Thyroid Carcinoma"
+            }
+          }
+        ],
+        "access": "open",
+        "file_name": "83a64870-077f-4b89-905a-03db2599e266_noid_Grn.idat",
+        "file_id": "0002abd6-7c11-49f4-ab6c-a0ffb5b9a91b",
+        "data_type": "Masked Intensities",
+        "data_category": "DNA Methylation",
+        "experimental_strategy": "Methylation Array"
+      },
+      {
+        "id": "0002b794-37d1-459a-9ed9-40c54ea01530",
+        "cases": [
+          {
+            "primary_site": "Bronchus and lung",
+            "disease_type": "Squamous Cell Neoplasms",
+            "case_id": "65555769-75cb-423d-b90d-eb7a88647898",
+            "project": {
+              "project_id": "FM-AD",
+              "name": "Foundation Medicine Adult Cancer Clinical Dataset (FM-AD)"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "9e635195-3270-4cca-8ff9-6ea63ddde2bd.targeted_sequencing.raw_somatic_mutation.vcf.gz",
+        "file_id": "0002b794-37d1-459a-9ed9-40c54ea01530",
+        "data_type": "Raw Simple Somatic Mutation",
+        "data_category": "Simple Nucleotide Variation",
+        "experimental_strategy": "Targeted Sequencing"
+      },
+      {
+        "id": "0002c108-b496-4bb0-9001-af4592dbf506",
+        "cases": [
+          {
+            "primary_site": "Hematopoietic and reticuloendothelial systems",
+            "disease_type": "Lymphoid Leukemias",
+            "case_id": "2a2b8909-77f9-5cbd-b674-3ccacd66e192",
+            "project": {
+              "project_id": "TARGET-ALL-P2",
+              "name": "Acute Lymphoblastic Leukemia - Phase II"
+            }
+          }
+        ],
+        "access": "open",
+        "file_name": "TARGET-ALL-P2.b88286b0-20d3-59f3-a125-d0b1cbde6a05.ascat2.allelic_specific.seg.txt",
+        "file_id": "0002c108-b496-4bb0-9001-af4592dbf506",
+        "data_type": "Allele-specific Copy Number Segment",
+        "data_category": "Copy Number Variation",
+        "experimental_strategy": "Genotyping Array"
+      },
+      {
+        "id": "0002ce0e-98ad-4f96-a8e0-567d5ab46915",
+        "cases": [
+          {
+            "primary_site": "Stomach",
+            "disease_type": "Adenomas and Adenocarcinomas",
+            "case_id": "add9546c-edc2-4989-b283-4645199abb70",
+            "project": {
+              "project_id": "CPTAC-3",
+              "name": "CPTAC-Brain, Head and Neck, Kidney, Lung, Pancreas, Uterus"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "CPTAC-3.0bbf70a4-e755-4856-abce-4bfbedefd838.star_fusion.rna_fusion.tsv",
+        "file_id": "0002ce0e-98ad-4f96-a8e0-567d5ab46915",
+        "data_type": "Transcript Fusion",
+        "data_category": "Structural Variation",
+        "experimental_strategy": "RNA-Seq"
+      },
+      {
+        "id": "0002cf13-dac1-418c-9112-c654e4277472",
+        "cases": [
+          {
+            "primary_site": "Bronchus and lung",
+            "disease_type": "Squamous Cell Neoplasms",
+            "case_id": "50da6367-644c-4051-9e30-39f7c77dcd8a",
+            "project": {
+              "project_id": "FM-AD",
+              "name": "Foundation Medicine Adult Cancer Clinical Dataset (FM-AD)"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "644d5710-f46f-4ab8-a452-8f974ffd5e06.targeted_sequencing.aliquot.maf.gz",
+        "file_id": "0002cf13-dac1-418c-9112-c654e4277472",
+        "data_type": "Aggregated Somatic Mutation",
+        "data_category": "Simple Nucleotide Variation",
+        "experimental_strategy": "Targeted Sequencing"
+      },
+      {
+        "id": "0002d26e-ba9c-49ad-b91e-016deb11bd25",
+        "cases": [
+          {
+            "primary_site": "Ovary",
+            "disease_type": "Cystic, Mucinous and Serous Neoplasms",
+            "case_id": "f3af727e-b592-4828-94f5-22008666cf8c",
+            "project": {
+              "project_id": "TCGA-OV",
+              "name": "Ovarian Serous Cystadenocarcinoma"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "d0addfeb-4b4c-4a1a-a1f1-96e791706871.wxs.MuSE.aliquot.maf.gz",
+        "file_id": "0002d26e-ba9c-49ad-b91e-016deb11bd25",
+        "data_type": "Annotated Somatic Mutation",
+        "data_category": "Simple Nucleotide Variation",
+        "experimental_strategy": "WXS"
+      },
+      {
+        "id": "0002ea8f-5766-4147-8a96-6098aed73b2c",
+        "cases": [
+          {
+            "primary_site": "Hematopoietic and reticuloendothelial systems",
+            "disease_type": "Acute Lymphoblastic Leukemia",
+            "case_id": "91beee2f-8367-4a6e-b700-3080735381ab",
+            "project": {
+              "project_id": "MP2PRT-ALL",
+              "name": "Molecular Profiling to Predict Response to Treatment for Acute Lymphoblastic Leukemia"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "04afada2-c483-4607-b0f5-9e826368411b.wxs.Pindel.aliquot.maf.gz",
+        "file_id": "0002ea8f-5766-4147-8a96-6098aed73b2c",
+        "data_type": "Annotated Somatic Mutation",
+        "data_category": "Simple Nucleotide Variation",
+        "experimental_strategy": "WXS"
+      },
+      {
+        "id": "0002ece2-8dc1-4730-8481-9c764d309c55",
+        "cases": [
+          {
+            "primary_site": "Corpus uteri",
+            "disease_type": "Adenomas and Adenocarcinomas",
+            "case_id": "5dd28537-d24f-4a6d-a454-6f64cf37e16a",
+            "project": {
+              "project_id": "TCGA-UCEC",
+              "name": "Uterine Corpus Endometrial Carcinoma"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "TCGA_UCEC.6e946fad-2b6b-4092-9431-7a42e86f5f8a.wxs.MuSE.somatic_annotation.vcf.gz",
+        "file_id": "0002ece2-8dc1-4730-8481-9c764d309c55",
+        "data_type": "Annotated Somatic Mutation",
+        "data_category": "Simple Nucleotide Variation",
+        "experimental_strategy": "WXS"
+      },
+      {
+        "id": "0002f570-386f-466b-a89e-9698a8f368c6",
+        "cases": [
+          {
+            "primary_site": "Stomach",
+            "disease_type": "Adenomas and Adenocarcinomas",
+            "case_id": "72b10481-7b16-469f-b133-464609569adf",
+            "project": {
+              "project_id": "TCGA-STAD",
+              "name": "Stomach Adenocarcinoma"
+            }
+          }
+        ],
+        "access": "open",
+        "file_name": "nationwidechildrens.org_ssf.TCGA-D7-A6EV.xml",
+        "file_id": "0002f570-386f-466b-a89e-9698a8f368c6",
+        "data_type": "Biospecimen Supplement",
+        "data_category": "Biospecimen"
+      },
+      {
+        "id": "00030edd-e90d-4edd-a674-e217c2db5055",
+        "access": "controlled",
+        "cases": [
+          {
+            "primary_site": "Stomach",
+            "disease_type": "Adenomas and Adenocarcinomas",
+            "case_id": "2ae1706b-c0f7-40e3-afe5-cb75d1584b96",
+            "project": {
+              "project_id": "TCGA-STAD",
+              "name": "Stomach Adenocarcinoma"
+            }
+          }
+        ],
+        "file_name": "d6adfc0b-eefa-4f84-9b48-1e8343b62564_wxs_gdc_realn.bam",
+        "file_id": "00030edd-e90d-4edd-a674-e217c2db5055",
+        "data_type": "Aligned Reads",
+        "data_category": "Sequencing Reads",
+        "experimental_strategy": "WXS"
+      },
+      {
+        "id": "00031471-9649-4d9e-b91b-cb5139e41883",
+        "cases": [
+          {
+            "primary_site": "Ovary",
+            "disease_type": "Cystic, Mucinous and Serous Neoplasms",
+            "case_id": "49d2c0cf-a3f3-4519-a755-0a5f769df2ea",
+            "project": {
+              "project_id": "TCGA-OV",
+              "name": "Ovarian Serous Cystadenocarcinoma"
+            }
+          }
+        ],
+        "access": "open",
+        "file_name": "TCGA-OV.b3ea5fa8-61c8-462e-b013-0e4d44fec679.gene_level_copy_number.v36.tsv",
+        "file_id": "00031471-9649-4d9e-b91b-cb5139e41883",
+        "data_type": "Gene Level Copy Number",
+        "data_category": "Copy Number Variation",
+        "experimental_strategy": "Genotyping Array"
+      },
+      {
+        "id": "00034215-1b70-4908-a6f1-5ce1c2d50d9b",
+        "cases": [
+          {
+            "primary_site": "Hematopoietic and reticuloendothelial systems",
+            "disease_type": "Myeloid Leukemias",
+            "case_id": "9c3ee602-d6aa-54bf-b69b-e8d9190f718e",
+            "project": {
+              "project_id": "TARGET-AML",
+              "name": "Acute Myeloid Leukemia"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "TARGET-AML.81523fb2-a522-4c1c-ba02-018541bb8bb6.targeted_sequencing.mutect2.raw_somatic_mutation.vcf.gz",
+        "file_id": "00034215-1b70-4908-a6f1-5ce1c2d50d9b",
+        "data_type": "Raw Simple Somatic Mutation",
+        "data_category": "Simple Nucleotide Variation",
+        "experimental_strategy": "Targeted Sequencing"
+      },
+      {
+        "id": "00035044-6338-4093-ace5-d4e54760c067",
+        "access": "controlled",
+        "cases": [
+          {
+            "primary_site": "Other and unspecified parts of mouth",
+            "disease_type": "Squamous Cell Neoplasms",
+            "case_id": "345d11d3-7376-4a47-bcc2-cd6cf5c2ed0f",
+            "project": {
+              "project_id": "HCMI-CMDC",
+              "name": "NCI Cancer Model Development for the Human Cancer Model Initiative"
+            }
+          }
+        ],
+        "file_name": "HCM-CSHL-0429-C06-11A-11D-A88G-36.WholeGenome.RP-1765.bam",
+        "file_id": "00035044-6338-4093-ace5-d4e54760c067",
+        "data_type": "Aligned Reads",
+        "data_category": "Sequencing Reads",
+        "experimental_strategy": "WGS"
+      },
+      {
+        "id": "00035044-f68a-41e3-8827-75704a77daf1",
+        "cases": [
+          {
+            "primary_site": "Ovary",
+            "disease_type": "Cystic, Mucinous and Serous Neoplasms",
+            "case_id": "561968ce-da9a-4d69-8bc2-bc87b9550f93",
+            "project": {
+              "project_id": "TCGA-OV",
+              "name": "Ovarian Serous Cystadenocarcinoma"
+            }
+          }
+        ],
+        "access": "open",
+        "file_name": "62939ed3-70c1-4e05-9553-18174ace6f38_noid_Grn.idat",
+        "file_id": "00035044-f68a-41e3-8827-75704a77daf1",
+        "data_type": "Masked Intensities",
+        "data_category": "DNA Methylation",
+        "experimental_strategy": "Methylation Array"
+      },
+      {
+        "id": "00035d99-38e1-4d60-859d-4f53c036314b",
+        "cases": [
+          {
+            "primary_site": "Larynx",
+            "disease_type": "Squamous Cell Neoplasms",
+            "case_id": "896e37fa-3a6a-481b-b790-5ee62bbdc9fa",
+            "project": {
+              "project_id": "TCGA-HNSC",
+              "name": "Head and Neck Squamous Cell Carcinoma"
+            }
+          }
+        ],
+        "access": "open",
+        "file_name": "CUTCH_p_TCGAb_355_37_52_NSP_GenomeWideSNP_6_F07_1376694.grch38.seg.v2.txt",
+        "file_id": "00035d99-38e1-4d60-859d-4f53c036314b",
+        "data_type": "Copy Number Segment",
+        "data_category": "Copy Number Variation",
+        "experimental_strategy": "Genotyping Array"
+      },
+      {
+        "id": "00035faf-e05e-42c0-88ea-3f5e96e2b475",
+        "cases": [
+          {
+            "primary_site": "Hematopoietic and reticuloendothelial systems",
+            "disease_type": "Acute Lymphoblastic Leukemia",
+            "case_id": "d6b7a88f-e39b-4fc9-8c5a-b28e50ffe07f",
+            "project": {
+              "project_id": "MP2PRT-ALL",
+              "name": "Molecular Profiling to Predict Response to Treatment for Acute Lymphoblastic Leukemia"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "MP2PRT-ALL.d89c2b84-7c46-4a42-8233-bb94e1356f2f.arriba.rna_fusion.tsv",
+        "file_id": "00035faf-e05e-42c0-88ea-3f5e96e2b475",
+        "data_type": "Transcript Fusion",
+        "data_category": "Structural Variation",
+        "experimental_strategy": "RNA-Seq"
+      },
+      {
+        "id": "0003711e-833c-45c7-8f85-503d226a67d5",
+        "cases": [
+          {
+            "primary_site": "Bladder",
+            "disease_type": "Transitional Cell Papillomas and Carcinomas",
+            "case_id": "eed3908f-f1bd-4254-bca8-bc1a7427e95c",
+            "project": {
+              "project_id": "TCGA-BLCA",
+              "name": "Bladder Urothelial Carcinoma"
+            }
+          }
+        ],
+        "access": "open",
+        "file_name": "TCGA-BLCA.6f300c94-3942-40df-b7d6-4298517ebe5b.ascat3.allelic_specific.seg.txt",
+        "file_id": "0003711e-833c-45c7-8f85-503d226a67d5",
+        "data_type": "Allele-specific Copy Number Segment",
+        "data_category": "Copy Number Variation",
+        "experimental_strategy": "Genotyping Array"
+      },
+      {
+        "id": "0003722c-1e6d-4379-9631-1c21ff982fbd",
+        "cases": [
+          {
+            "primary_site": "Hematopoietic and reticuloendothelial systems",
+            "disease_type": "Mature B-Cell Lymphomas",
+            "case_id": "cbb553da-c61c-4734-ac58-ef4580aaef47",
+            "project": {
+              "project_id": "CGCI-BLGSP",
+              "name": "Burkitt Lymphoma Genome Sequencing Project"
+            }
+          }
+        ],
+        "access": "open",
+        "file_name": "nationwidechildrens.org_pps.BLGSP-71-30-00668.xml",
+        "file_id": "0003722c-1e6d-4379-9631-1c21ff982fbd",
+        "data_type": "Biospecimen Supplement",
+        "data_category": "Biospecimen"
+      },
+      {
+        "id": "000372cf-c979-4f87-8195-dd5d7e0c6d87",
+        "cases": [
+          {
+            "primary_site": "Kidney",
+            "disease_type": "Adenomas and Adenocarcinomas",
+            "case_id": "46bc69a9-0090-4809-92b8-8cb741d9007d",
+            "project": {
+              "project_id": "TCGA-KIRC",
+              "name": "Kidney Renal Clear Cell Carcinoma"
+            }
+          }
+        ],
+        "access": "open",
+        "file_name": "f7e53f89-d048-476a-93ed-072ff1afc1b0_noid_Red.idat",
+        "file_id": "000372cf-c979-4f87-8195-dd5d7e0c6d87",
+        "data_type": "Masked Intensities",
+        "data_category": "DNA Methylation",
+        "experimental_strategy": "Methylation Array"
+      },
+      {
+        "id": "0003748e-06a5-40db-b543-46ba6238c15e",
+        "cases": [
+          {
+            "primary_site": "Pancreas",
+            "disease_type": "Ductal and Lobular Neoplasms",
+            "case_id": "dfa988f5-226e-47ca-b4c5-ef950c9efac5",
+            "project": {
+              "project_id": "HCMI-CMDC",
+              "name": "NCI Cancer Model Development for the Human Cancer Model Initiative"
+            }
+          }
+        ],
+        "access": "open",
+        "file_name": "f69898cf-68cc-4206-9ff1-8f7759729184.rna_seq.augmented_star_gene_counts.tsv",
+        "file_id": "0003748e-06a5-40db-b543-46ba6238c15e",
+        "data_type": "Gene Expression Quantification",
+        "data_category": "Transcriptome Profiling",
+        "experimental_strategy": "RNA-Seq"
+      },
+      {
+        "id": "000377d3-6a66-4552-9c4b-5cd4487adc9a",
+        "cases": [
+          {
+            "primary_site": "Liver and intrahepatic bile ducts",
+            "disease_type": "Adenomas and Adenocarcinomas",
+            "case_id": "60fcd491-0170-46c0-ab14-d71f88267a14",
+            "project": {
+              "project_id": "TCGA-LIHC",
+              "name": "Liver Hepatocellular Carcinoma"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "TCGA-LIHC.b18b7f76-d839-4b0d-a23c-2a83666416e3.star_fusion.rna_fusion.tsv",
+        "file_id": "000377d3-6a66-4552-9c4b-5cd4487adc9a",
+        "data_type": "Transcript Fusion",
+        "data_category": "Structural Variation",
+        "experimental_strategy": "RNA-Seq"
+      },
+      {
+        "id": "0003c831-a4f6-47f4-8400-caedf42ccf3c",
+        "cases": [
+          {
+            "primary_site": "Brain",
+            "disease_type": "Gliomas",
+            "case_id": "8da3103e-3e6c-4176-a583-d5fe5e60601e",
+            "project": {
+              "project_id": "TCGA-GBM",
+              "name": "Glioblastoma Multiforme"
+            }
+          }
+        ],
+        "access": "open",
+        "file_name": "TCGA-06-0125.E2760AAE-ED41-402F-A777-7B1D7F50E52E.PDF",
+        "file_id": "0003c831-a4f6-47f4-8400-caedf42ccf3c",
+        "data_type": "Pathology Report",
+        "data_category": "Clinical"
+      },
+      {
+        "id": "0003d0ca-9bcb-4dab-ad58-eb99f626d24f",
+        "access": "controlled",
+        "cases": [
+          {
+            "primary_site": "Hematopoietic and reticuloendothelial systems",
+            "disease_type": "Myeloid Leukemias",
+            "case_id": "5e187cc7-19b2-4c53-999e-ea09117bb972",
+            "project": {
+              "project_id": "CPTAC-3",
+              "name": "CPTAC-Brain, Head and Neck, Kidney, Lung, Pancreas, Uterus"
+            }
+          }
+        ],
+        "file_name": "dd4cee2a-9fbb-40e8-bd02-efcf0b6ef703_wxs_gdc_realn.bam",
+        "file_id": "0003d0ca-9bcb-4dab-ad58-eb99f626d24f",
+        "data_type": "Aligned Reads",
+        "data_category": "Sequencing Reads",
+        "experimental_strategy": "WXS"
+      },
+      {
+        "id": "0003d499-b7a6-4eda-b056-0b6816f5c7ea",
+        "cases": [
+          {
+            "primary_site": "Bronchus and lung",
+            "disease_type": "Epithelial Neoplasms, NOS",
+            "case_id": "4cea1317-7ab5-421b-a3b9-e18843d24ab5",
+            "project": {
+              "project_id": "FM-AD",
+              "name": "Foundation Medicine Adult Cancer Clinical Dataset (FM-AD)"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "ad550584-739e-4a54-99ae-667ce419607f.targeted_sequencing.aliquot.maf.gz",
+        "file_id": "0003d499-b7a6-4eda-b056-0b6816f5c7ea",
+        "data_type": "Aggregated Somatic Mutation",
+        "data_category": "Simple Nucleotide Variation",
+        "experimental_strategy": "Targeted Sequencing"
+      },
+      {
+        "id": "0003d766-0df4-4b7a-9fc7-9452826257fd",
+        "access": "controlled",
+        "cases": [
+          {
+            "primary_site": "Hematopoietic and reticuloendothelial systems",
+            "disease_type": "Myeloid Leukemias",
+            "case_id": "0ca8cf59-7ed0-45a6-b224-04eaf1fce79e",
+            "project": {
+              "project_id": "BEATAML1.0-COHORT",
+              "name": "Functional Genomic Landscape of Acute Myeloid Leukemia"
+            }
+          }
+        ],
+        "file_name": "c2263ae5-c819-4951-ad72-5f56cfce6192_wxs_gdc_realn.bam",
+        "file_id": "0003d766-0df4-4b7a-9fc7-9452826257fd",
+        "data_type": "Aligned Reads",
+        "data_category": "Sequencing Reads",
+        "experimental_strategy": "WXS"
+      },
+      {
+        "id": "0003e332-216c-49d9-ac2d-f66e6387e5e4",
+        "cases": [
+          {
+            "primary_site": "Hematopoietic and reticuloendothelial systems",
+            "disease_type": "Lymphoid Leukemias",
+            "case_id": "01189d9f-1be2-5db6-a45d-941d0ef3b1bb",
+            "project": {
+              "project_id": "TARGET-ALL-P2",
+              "name": "Acute Lymphoblastic Leukemia - Phase II"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "d07cb29b-3f7a-4779-8106-79434190cb52.wxs.muse.raw_somatic_mutation.vcf.gz",
+        "file_id": "0003e332-216c-49d9-ac2d-f66e6387e5e4",
+        "data_type": "Raw Simple Somatic Mutation",
+        "data_category": "Simple Nucleotide Variation",
+        "experimental_strategy": "WXS"
+      },
+      {
+        "id": "0003f7af-dc4d-458b-8313-3b3921bed90d",
+        "cases": [
+          {
+            "primary_site": "Hematopoietic and reticuloendothelial systems",
+            "disease_type": "Myeloid Leukemias",
+            "case_id": "79521d93-33ee-443b-842d-f223d77c0377",
+            "project": {
+              "project_id": "BEATAML1.0-COHORT",
+              "name": "Functional Genomic Landscape of Acute Myeloid Leukemia"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "35917755-b4e1-445e-850b-46881c3df872.rna_seq.chimeric.gdc_realn.bam",
+        "file_id": "0003f7af-dc4d-458b-8313-3b3921bed90d",
+        "data_type": "Aligned Reads",
+        "data_category": "Sequencing Reads",
+        "experimental_strategy": "RNA-Seq"
+      },
+      {
+        "id": "00040fd1-5527-42ca-b5b7-d846999af980",
+        "access": "controlled",
+        "cases": [
+          {
+            "primary_site": "Hematopoietic and reticuloendothelial systems",
+            "disease_type": "Myeloid Leukemias",
+            "case_id": "cdc84f14-a5f2-5cb8-9af0-3161d7e79076",
+            "project": {
+              "project_id": "TARGET-AML",
+              "name": "Acute Myeloid Leukemia"
+            }
+          }
+        ],
+        "file_name": "ed88a1bd-ab85-4585-95e3-6eff8c004ee3.rna_seq.genomic.gdc_realn.bam",
+        "file_id": "00040fd1-5527-42ca-b5b7-d846999af980",
+        "data_type": "Aligned Reads",
+        "data_category": "Sequencing Reads",
+        "experimental_strategy": "RNA-Seq"
+      },
+      {
+        "id": "00041cc6-4485-4f72-a460-3869999baa41",
+        "access": "controlled",
+        "cases": [
+          {
+            "primary_site": "Hematopoietic and reticuloendothelial systems",
+            "disease_type": "Mature B-Cell Lymphomas",
+            "case_id": "31f34012-8771-47a9-a925-69292bf7316e",
+            "project": {
+              "project_id": "CGCI-HTMCP-DLBCL",
+              "name": "HIV+ Tumor Molecular Characterization Project - Diffuse Large B-Cell Lymphoma"
+            }
+          }
+        ],
+        "file_name": "7db4ccd5-9490-4948-b4f9-4569ff841551_wgs_gdc_realn.bam",
+        "file_id": "00041cc6-4485-4f72-a460-3869999baa41",
+        "data_type": "Aligned Reads",
+        "data_category": "Sequencing Reads",
+        "experimental_strategy": "WGS"
+      },
+      {
+        "id": "00044a8b-9b8e-4e04-b6a5-c8a885c2176e",
+        "cases": [
+          {
+            "primary_site": "Cervix uteri",
+            "disease_type": "Squamous Cell Neoplasms",
+            "case_id": "6949c03e-067a-49a5-b48d-e9380a1b0b27",
+            "project": {
+              "project_id": "TCGA-CESC",
+              "name": "Cervical Squamous Cell Carcinoma and Endocervical Adenocarcinoma"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "c3ebf2fd-b9c9-4aca-8e57-13648dd57250.somatic.SV.bedpe",
+        "file_id": "00044a8b-9b8e-4e04-b6a5-c8a885c2176e",
+        "data_type": "Structural Rearrangement",
+        "data_category": "Somatic Structural Variation",
+        "experimental_strategy": "WGS"
+      },
+      {
+        "id": "00044bbe-616d-4032-a6bd-318125b037fd",
+        "cases": [
+          {
+            "primary_site": "Hematopoietic and reticuloendothelial systems",
+            "disease_type": "Acute Lymphoblastic Leukemia",
+            "case_id": "fc3140b0-8f3a-4fb6-8986-9dfb101b3a0d",
+            "project": {
+              "project_id": "MP2PRT-ALL",
+              "name": "Molecular Profiling to Predict Response to Treatment for Acute Lymphoblastic Leukemia"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "9e34e1e9-6fd5-4126-9db7-55f9b0bfb29d.wgs.gatk4.copy_number_variation.supplementary.tar.gz",
+        "file_id": "00044bbe-616d-4032-a6bd-318125b037fd",
+        "data_type": "Intermediate Analysis Archive",
+        "data_category": "Copy Number Variation",
+        "experimental_strategy": "WGS"
+      },
+      {
+        "id": "00046441-d281-4d52-9aac-dc972e76225e",
+        "cases": [
+          {
+            "primary_site": "Hematopoietic and reticuloendothelial systems",
+            "disease_type": "Acute Lymphoblastic Leukemia",
+            "case_id": "a80aa9a3-4d75-4499-bec3-0fba08555750",
+            "project": {
+              "project_id": "MP2PRT-ALL",
+              "name": "Molecular Profiling to Predict Response to Treatment for Acute Lymphoblastic Leukemia"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "4068d392-ccf2-4744-b866-b415485329a1.wxs.MuTect2.aliquot.maf.gz",
+        "file_id": "00046441-d281-4d52-9aac-dc972e76225e",
+        "data_type": "Annotated Somatic Mutation",
+        "data_category": "Simple Nucleotide Variation",
+        "experimental_strategy": "WXS"
+      },
+      {
+        "id": "00047177-539b-4cfe-b6df-7d659f06187e",
+        "cases": [
+          {
+            "primary_site": "Ovary",
+            "disease_type": "Cystic, Mucinous and Serous Neoplasms",
+            "case_id": "260723bf-9620-450d-bf31-f3a45543f9db",
+            "project": {
+              "project_id": "TCGA-OV",
+              "name": "Ovarian Serous Cystadenocarcinoma"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "TCGA_OV.8682cce4-5ef0-4db5-953a-e2bc5f269b1c.wxs.Pindel.somatic_annotation.vcf.gz",
+        "file_id": "00047177-539b-4cfe-b6df-7d659f06187e",
+        "data_type": "Annotated Somatic Mutation",
+        "data_category": "Simple Nucleotide Variation",
+        "experimental_strategy": "WXS"
+      },
+      {
+        "id": "0004726e-b2cd-4c5d-a850-f08cb50217c8",
+        "cases": [
+          {
+            "primary_site": "Lymph nodes",
+            "disease_type": "Nevi and Melanomas",
+            "case_id": "36f4be75-cbcf-431b-9199-dba295a905a1",
+            "project": {
+              "project_id": "TCGA-SKCM",
+              "name": "Skin Cutaneous Melanoma"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "CACTI_p_TCGAb_392_393_394_NSP_GenomeWideSNP_6_F12_1474046.CEL",
+        "file_id": "0004726e-b2cd-4c5d-a850-f08cb50217c8",
+        "data_type": "Raw Intensities",
+        "data_category": "Copy Number Variation",
+        "experimental_strategy": "Genotyping Array"
+      },
+      {
+        "id": "000472f5-5a92-4e62-a841-ace5101612bc",
+        "cases": [
+          {
+            "primary_site": "Hematopoietic and reticuloendothelial systems",
+            "disease_type": "Myeloid Leukemias",
+            "case_id": "30793970-d1c1-5a7f-98f3-d0d2029be37d",
+            "project": {
+              "project_id": "TARGET-AML",
+              "name": "Acute Myeloid Leukemia"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "95417510-86e3-4188-8b68-2b6bb153da95.targeted_sequencing.MuTect2.aliquot.maf.gz",
+        "file_id": "000472f5-5a92-4e62-a841-ace5101612bc",
+        "data_type": "Annotated Somatic Mutation",
+        "data_category": "Simple Nucleotide Variation",
+        "experimental_strategy": "Targeted Sequencing"
+      },
+      {
+        "id": "00047d32-a3e4-4b67-ac0d-1ad840387dd0",
+        "cases": [
+          {
+            "primary_site": "Colon",
+            "disease_type": "Adenomas and Adenocarcinomas",
+            "case_id": "9b2c325c-1f03-43c7-ad5c-b49c6d205635",
+            "project": {
+              "project_id": "TCGA-COAD",
+              "name": "Colon Adenocarcinoma"
+            }
+          }
+        ],
+        "access": "open",
+        "file_name": "TCGA-DM-A28A-01A-11-A17M-20_RPPA_data.tsv",
+        "file_id": "00047d32-a3e4-4b67-ac0d-1ad840387dd0",
+        "data_type": "Protein Expression Quantification",
+        "data_category": "Proteome Profiling",
+        "experimental_strategy": "Reverse Phase Protein Array"
+      },
+      {
+        "id": "00047ffd-ba82-4f42-b806-017d3aa3dc64",
+        "cases": [
+          {
+            "primary_site": "Hematopoietic and reticuloendothelial systems",
+            "disease_type": "Lymphoid Leukemias",
+            "case_id": "6bf78f20-6540-5d0a-a8e3-636a1d6013b6",
+            "project": {
+              "project_id": "TARGET-ALL-P2",
+              "name": "Acute Lymphoblastic Leukemia - Phase II"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "b6731ed0-91aa-4e6b-80d0-dab58f15ed9e.wxs.Pindel.aliquot.maf.gz",
+        "file_id": "00047ffd-ba82-4f42-b806-017d3aa3dc64",
+        "data_type": "Annotated Somatic Mutation",
+        "data_category": "Simple Nucleotide Variation",
+        "experimental_strategy": "WXS"
+      },
+      {
+        "id": "0004812f-3564-46cf-8cd9-36d7ad95513f",
+        "cases": [
+          {
+            "primary_site": "Corpus uteri",
+            "disease_type": "Adenomas and Adenocarcinomas",
+            "case_id": "d1b615f4-50c9-497b-8a69-8de78aa17e09",
+            "project": {
+              "project_id": "TCGA-UCEC",
+              "name": "Uterine Corpus Endometrial Carcinoma"
+            }
+          }
+        ],
+        "access": "open",
+        "file_name": "AVOWS_p_TCGAb49_SNP_1N_GenomeWideSNP_6_D04_653378.grch38.seg.v2.txt",
+        "file_id": "0004812f-3564-46cf-8cd9-36d7ad95513f",
+        "data_type": "Copy Number Segment",
+        "data_category": "Copy Number Variation",
+        "experimental_strategy": "Genotyping Array"
+      },
+      {
+        "id": "00049989-fa21-48fb-8dda-710c0dd5932e",
+        "cases": [
+          {
+            "primary_site": "Breast",
+            "disease_type": "Ductal and Lobular Neoplasms",
+            "case_id": "378778d2-b331-4867-a93b-c64028c8b4c7",
+            "project": {
+              "project_id": "TCGA-BRCA",
+              "name": "Breast Invasive Carcinoma"
+            }
+          }
+        ],
+        "access": "open",
+        "file_name": "nationwidechildrens.org_clinical.TCGA-A2-A0CT.xml",
+        "file_id": "00049989-fa21-48fb-8dda-710c0dd5932e",
+        "data_type": "Clinical Supplement",
+        "data_category": "Clinical"
+      },
+      {
+        "id": "0004ae4e-7cd2-4df1-ab03-072af0a1a438",
+        "access": "controlled",
+        "cases": [
+          {
+            "primary_site": "Hematopoietic and reticuloendothelial systems",
+            "disease_type": "Myeloid Leukemias",
+            "case_id": "a6710fcc-984c-5c7a-b0b2-1786822e0c0f",
+            "project": {
+              "project_id": "TARGET-AML",
+              "name": "Acute Myeloid Leukemia"
+            }
+          }
+        ],
+        "file_name": "c7279953-fa94-56b5-9140-ef1e82bfdebc_targetedsequencing_gdc_realn.bam",
+        "file_id": "0004ae4e-7cd2-4df1-ab03-072af0a1a438",
+        "data_type": "Aligned Reads",
+        "data_category": "Sequencing Reads",
+        "experimental_strategy": "Targeted Sequencing"
+      },
+      {
+        "id": "0004b298-b9c3-444a-ad3d-a426b96a0ac7",
+        "cases": [
+          {
+            "primary_site": "Bronchus and lung",
+            "disease_type": "Adenomas and Adenocarcinomas",
+            "case_id": "4b7cd595-e7f9-45a8-b736-a8c7c42d9539",
+            "project": {
+              "project_id": "TCGA-LUAD",
+              "name": "Lung Adenocarcinoma"
+            }
+          }
+        ],
+        "access": "open",
+        "file_name": "3ce157f3-a110-4c43-94c4-a07ebf8d8ba4_noid_Grn.idat",
+        "file_id": "0004b298-b9c3-444a-ad3d-a426b96a0ac7",
+        "data_type": "Masked Intensities",
+        "data_category": "DNA Methylation",
+        "experimental_strategy": "Methylation Array"
+      },
+      {
+        "id": "0004bd59-6522-4069-a8c1-d6e3ec8a1af4",
+        "cases": [
+          {
+            "primary_site": "Larynx",
+            "disease_type": "Squamous Cell Neoplasms",
+            "case_id": "0abe0b8f-fd93-43e8-b78f-48a7c3f96868",
+            "project": {
+              "project_id": "TCGA-HNSC",
+              "name": "Head and Neck Squamous Cell Carcinoma"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "d60ab468-edc1-4976-8f1b-5d7505a85ba9.wgs.gatk4.copy_number_variation.supplementary.tar.gz",
+        "file_id": "0004bd59-6522-4069-a8c1-d6e3ec8a1af4",
+        "data_type": "Intermediate Analysis Archive",
+        "data_category": "Copy Number Variation",
+        "experimental_strategy": "WGS"
+      },
+      {
+        "id": "0004bf52-32f4-45ad-8f79-8a04c61a67e8",
+        "cases": [
+          {
+            "primary_site": "Lymph nodes",
+            "disease_type": "Mature B-Cell Lymphomas",
+            "case_id": "a60b0623-440f-4abb-bf41-aae362bd1255",
+            "project": {
+              "project_id": "NCICCR-DLBCL",
+              "name": "Genomic Variation in Diffuse Large B Cell Lymphomas"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "011ff200-00d3-448a-9770-0628067fb02f.rna_seq.transcriptome.gdc_realn.bam",
+        "file_id": "0004bf52-32f4-45ad-8f79-8a04c61a67e8",
+        "data_type": "Aligned Reads",
+        "data_category": "Sequencing Reads",
+        "experimental_strategy": "RNA-Seq"
+      },
+      {
+        "id": "0004cb9b-e0eb-479c-9868-fad8f41d2f66",
+        "access": "controlled",
+        "cases": [
+          {
+            "primary_site": "Eye and adnexa",
+            "disease_type": "Nevi and Melanomas",
+            "case_id": "9e35ef82-55b0-460b-8ab9-8cd708efa3b1",
+            "project": {
+              "project_id": "TCGA-UVM",
+              "name": "Uveal Melanoma"
+            }
+          }
+        ],
+        "file_name": "4facd3ed-b7a2-4bde-ba06-ed91112cb285_wxs_gdc_realn.bam",
+        "file_id": "0004cb9b-e0eb-479c-9868-fad8f41d2f66",
+        "data_type": "Aligned Reads",
+        "data_category": "Sequencing Reads",
+        "experimental_strategy": "WXS"
+      },
+      {
+        "id": "0004db1b-3438-4b8b-830f-e85ad9864676",
+        "cases": [
+          {
+            "primary_site": "Tonsil",
+            "disease_type": "Squamous Cell Neoplasms",
+            "case_id": "9f89510c-ed07-471f-b35e-7c87c237b9fe",
+            "project": {
+              "project_id": "TCGA-HNSC",
+              "name": "Head and Neck Squamous Cell Carcinoma"
+            }
+          }
+        ],
+        "access": "controlled",
+        "file_name": "TCGA_HNSC.5aa6dc46-c9c8-4b65-84d0-c749c06f48ba.wgs.GATK4_MuTect2_Pair.somatic_annotation.vcf.gz",
+        "file_id": "0004db1b-3438-4b8b-830f-e85ad9864676",
+        "data_type": "Annotated Somatic Mutation",
+        "data_category": "Simple Nucleotide Variation",
+        "experimental_strategy": "WGS"
+      },
+      {
+        "id": "0004e15f-5b5a-4184-893a-b078fbdcf942",
+        "cases": [
+          {
+            "primary_site": "Ovary",
+            "disease_type": "Cystic, Mucinous and Serous Neoplasms",
+            "case_id": "538acb2a-c4ca-4656-a91c-841a42dbf15f",
+            "project": {
+              "project_id": "TCGA-OV",
+              "name": "Ovarian Serous Cystadenocarcinoma"
+            }
+          }
+        ],
+        "access": "open",
+        "file_name": "071570c9-cca8-410c-ae31-ec0426622ebf.mirbase21.isoforms.quantification.txt",
+        "file_id": "0004e15f-5b5a-4184-893a-b078fbdcf942",
+        "data_type": "Isoform Expression Quantification",
+        "data_category": "Transcriptome Profiling",
+        "experimental_strategy": "miRNA-Seq"
+      },
+      {
+        "id": "0004ea45-1e5e-4859-b2a3-0f46c1525b53",
+        "access": "controlled",
+        "cases": [
+          {
+            "primary_site": "Ovary",
+            "disease_type": "Cystic, Mucinous and Serous Neoplasms",
+            "case_id": "d73a0a33-e4e8-44bd-9580-2038ab06583a",
+            "project": {
+              "project_id": "TCGA-OV",
+              "name": "Ovarian Serous Cystadenocarcinoma"
+            }
+          }
+        ],
+        "file_name": "bd93f362-b23a-41b7-8ad4-478cf8b18c95_wxs_gdc_realn.bam",
+        "file_id": "0004ea45-1e5e-4859-b2a3-0f46c1525b53",
+        "data_type": "Aligned Reads",
+        "data_category": "Sequencing Reads",
+        "experimental_strategy": "WXS"
+      }
+    ],
+    "pagination": {
+      "count": 100,
+      "total": 1271450,
+      "size": 100,
+      "from": 0,
+      "sort": "None",
+      "page": 1,
+      "pages": 12715
+    }
+  },
+  "warnings": {
+    "fields": "unrecognized values: [file_format]"
+  }
+}
